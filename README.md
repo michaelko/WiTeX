@@ -11,7 +11,7 @@ Paste [`style.css`](https://raw.githubusercontent.com/AndrewBelt/WiTeX/master/st
 
 Alternatively, you can load the CSS using a browser plugin for the domain `https?://*.wikipedia.org`.
 
-
+Currently this style loads the fonts from the servers of AndrewBelt. He's looking for a CDN, as he writes in the code.
 #### I want the old Wikipedia design back!
 
 There is no longer a link to the Preferences page on Wikipedia, so [here's the URL](https://en.wikipedia.org/wiki/Special:Preferences).
@@ -20,3 +20,5 @@ Change the skin to something else, apply, and remove the Custom CSS from the Vec
 Or, you could manually go to this URL, inserting your Wikipedia username.
 
 https://en.wikipedia.org/w/index.php?title=User:***your-username***/vector.css&action=edit
+
+
