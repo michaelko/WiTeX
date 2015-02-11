@@ -81,8 +81,10 @@ ul {
 .mw-body {
 	margin: 2em auto;
 	padding: 1.6em;
+	-webkit-column-width: 15em;
 	-moz-column-width: 15em;
 	column-width: 15em;
+	-webkit-column-gap:  3rem;
 	-moz-column-gap: 3rem;
 	column-gap:  3rem;
 	max-width: none;
