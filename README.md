@@ -17,8 +17,6 @@ Currently this style loads the fonts from the servers of AndrewBelt. He's lookin
 There is no longer a link to the Preferences page on Wikipedia, so [here's the URL](https://en.wikipedia.org/wiki/Special:Preferences).
 
 Change the skin to something else, apply, and remove the Custom CSS from the Vector skin.
-Or, you could manually go to this URL, inserting your Wikipedia username.
+Or, you could manually go to this URL while logged in:
 
-https://en.wikipedia.org/w/index.php?title=User:***your-username***/vector.css&action=edit
-
-
+https://en.wikipedia.org/w/index.php?title=Special:MyPage/vector.css&action=edit
