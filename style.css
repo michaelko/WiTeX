@@ -79,8 +79,15 @@ ul {
 /* Content Box */
 
 .mw-body {
-	max-width: 720px;
 	margin: 2em auto;
+	padding: 1.6em;
+	-moz-column-width: 15em;
+	column-width: 15em;
+	-moz-column-gap: 3rem;
+	column-gap:  3rem;
+	max-width: none;
+	height: 90vh;
+	box-sizing: border-box;	
 }
 
 #content {
