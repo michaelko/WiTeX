@@ -4,6 +4,7 @@
 # WiTeX
 *If Donald Knuth had designed Wikipedia*
 
+Multicolumn edition.
 ## Install
 If you have a Wikipedia account, open your [Preferences](https://en.wikipedia.org/wiki/Special:Preferences), go to the Appearance tab, and edit the Custom CSS for the Vector skin.
 Paste [`style.css`](https://raw.githubusercontent.com/AndrewBelt/WiTeX/master/style.css) into the code editor, and save.
